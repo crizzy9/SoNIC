@@ -1,0 +1,111 @@
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">"SoNiC "</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+    <string-array name="category_arrays">
+        <item>Potholes</item>
+        <item>Litter</item>
+        <item>Crime</item>
+        <item>Traffic</item>
+    </string-array>
+
+    <string-array name="location_arrays">
+        <item>Malad</item>
+        <item>Bandra</item>
+        <item>Vasai</item>
+        <item>Thane</item>
+        </string-array>
+
+
+
+    <string-array name="search_arrays">
+        <item>Location</item>
+        <item>Category</item>
+        <item>userid</item>
+
+    </string-array>
+
+    <string name="country_prompt">Choose nearest Location</string>
+<string name="title_upload_to_server">Upload Now</string>
+
+
+    <string name="click_image">Click Image</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="image_content">Image</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+
+
+
+
+    <string name="item_title">Title of Object</string>
+    <string name="item_desc">Item description to be filled here
+    </string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#979797</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_choose_city">Choose your city</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+    <string name="textview_password">Enter Password</string>
+    <string name="string_username">Enter Username</string>
+    <string name="string_already_registered">Already Registered</string>
+    <string name="title_activity_activity_login">ActivityLogin</string>
+    <string name="string_user_login">Login</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="title_activity_list_display">ListDisplay</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+</resources>

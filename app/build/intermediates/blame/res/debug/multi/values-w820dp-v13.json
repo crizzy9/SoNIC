@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 57,
+                        "endOffset": 981
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 57,
+                        "endOffset": 981
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:17:1-105:12
+	xmlns:android
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:17:11-69
+	package
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:18:5-56
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:23:22-78
+application
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:26:5-102:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:28:9-36
+	android:theme
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.materialdesigncodelab.MainActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.example.android.materialdesigncodelab.StartActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:41:13-42
+activity#com.example.android.materialdesigncodelab.LoggerClass
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:44:9-47:16
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:46:9-41
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:45:9-36
+activity#com.example.android.materialdesigncodelab.LoginActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:49:9-58:20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:51:9-41
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:50:9-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:55:27-74
+activity#com.example.android.materialdesigncodelab.SignUpActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:62:13-43
+activity#com.example.android.materialdesigncodelab.UsContentFragment
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:73:13-46
+activity#com.example.android.materialdesigncodelab.DetailActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:parentActivityName
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:82:13-55
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:81:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:83:13-85:49
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:84:17-63
+	android:value
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:85:17-46
+activity#com.example.android.materialdesigncodelab.UploadToServer
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:87:9-89:62
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:89:13-59
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:88:13-43
+activity#com.example.android.materialdesigncodelab.BitmapActivity
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:91:9-95:12
+	android:label
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:93:13-35
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:92:13-43
+service#com.example.android.materialdesigncodelab.NotificationService
+ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:97:9-100:47
+	android:exported
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:100:13-36
+	android:enabled
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:99:13-35
+	android:name
+		ADDED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml:98:13-48
+uses-sdk
+INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ALCHEMi$T\Desktop\sonic_build_8.1\sonic_build_8\app\src\main\AndroidManifest.xml

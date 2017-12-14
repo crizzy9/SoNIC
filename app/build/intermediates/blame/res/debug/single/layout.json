@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disp_list.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\disp_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_card.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_card.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_to_server.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_upload_to_server.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_to_server.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_upload_to_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_display.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\content_list_display.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_bitmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_view.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_card.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_card.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_bitmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_card2.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_card2.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_card2.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_card2.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\us_activity.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\us_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tile.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_view.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tile.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navheader.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\navheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up_screen.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_sign_up_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navheader.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\navheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\success_card.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\success_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_display.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\content_list_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in_screen.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_sign_in_screen.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\us_activity.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\us_activity.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in_screen.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_sign_in_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\disp_list.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\disp_list.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up_screen.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_sign_up_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\success_card.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\success_card.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\layout\\activity_start.xml"
+    }
+]

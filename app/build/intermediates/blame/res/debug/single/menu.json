@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bitmap.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\bitmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bitmap.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\bitmap.xml"
+    },
+    {
+        "merged": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "S:\\BE PROJECT\\SONIC_all_builds\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation.xml",
+        "source": "C:\\Users\\ALCHEMi$T\\Desktop\\sonic_build_8.1\\sonic_build_8\\app\\src\\main\\res\\menu\\menu_navigation.xml"
+    }
+]
